@@ -21,6 +21,7 @@ body {
  background-color: #F0E8C2;
  border-radius: 24px;
  margin: 48px auto 28px;
+ place-items: center;
 }
 
 img {
@@ -67,4 +68,8 @@ footer {
 
 footer img {
   vertical-align: middle;
+}
+
+.main-img {
+  width: 100%;
 }
